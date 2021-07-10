@@ -1,6 +1,4 @@
 Dance2
-<<<<<<< HEAD
-hand
-=======
 also
->>>>>>> 06e56973aa86c4370978f32339ecd6280201ee5d
+hand
+
